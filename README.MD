@@ -1,2 +1,2 @@
 # guiruyz/learning
-This repository proposes to learn how to make scripts with different programming languages.
+This repository proposes to learn how to code scripts with different programming languages.
